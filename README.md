@@ -5,7 +5,7 @@ I work there as a full-stack developer. I'm deeply in love with the technical an
 ## 🛜 Socials
 You can find me on social medias:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anacode_?igsh=OXgwc3I0dmM4NWx1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-morelli-chaves-8959a0228/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-morelli-chaves-8959a0228/)
 
 
 ## 💻 Skills & Technologies
