@@ -10,11 +10,3 @@ You can find me on social medias:
 
 ## 💻 Skills & Technologies
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,prisma,androidstudio,ps,java,kotlin,mysql,php,py,ai,figma,c)](https://skillicons.dev)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annacarolinma/annacarolinma/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annacarolinma/annacarolinma/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/annacarolinma/annacarolinma/output/pacman-contribution-graph.svg">
-</picture>
-
-###
