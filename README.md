@@ -9,4 +9,4 @@ You can find me on social medias:
 
 
 ## 💻 Skills & Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,java,kotlin,mysql,php,py,ai,figma,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,prisma,androidstudio,ps,java,kotlin,mysql,php,py,ai,figma,c)](https://skillicons.dev)
