@@ -1,4 +1,4 @@
-# Hello 🐈‍⬛
+# Hello
 I'm Ana, a Software Engineering student and ui/ux designer. Currently, i'm an intern at the city hall of Campinas, São Paulo. 
 I work there as a full-stack developer. I'm deeply in love with the technical and design in the aspects of development, and how I can match them for great user experiences, it's ike find a path, for guide those people, in the middle of complexity, simplifying interactions and making their journey more intuitive and enjoyable.
 
@@ -10,3 +10,10 @@ You can find me on social medias:
 
 ## 💻 Skills & Technologies
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,prisma,androidstudio,ps,java,kotlin,mysql,php,py,ai,figma,c)](https://skillicons.dev)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annacarolinma/annacarolinma/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annacarolinma/annacarolinma/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/annacarolinma/annacarolinma/output/pacman-contribution-graph.svg">
+</picture>
+
