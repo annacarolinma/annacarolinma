@@ -1,6 +1,5 @@
 # Hello
-I'm Ana, a Software Engineering student and ui/ux designer. Currently, i'm an intern at the city hall of Campinas, São Paulo. 
-I work there as a full-stack developer. I'm deeply in love with the technical and design in the aspects of development, and how I can match them for great user experiences, it's ike find a path, for guide those people, in the middle of complexity, simplifying interactions and making their journey more intuitive and enjoyable.
+I'm Ana, a Software Engineering student and ui/ux designer. I'm deeply in love with the technical and design in the aspects of development, and how I can match them for great user experiences, it's ike find a path, for guide those people, in the middle of complexity, simplifying interactions and making their journey more intuitive and enjoyable.
 
 ## 🛜 Socials
 You can find me on social medias:
